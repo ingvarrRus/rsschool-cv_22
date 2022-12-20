@@ -5,4 +5,7 @@
 >Общий опыт работы 5 лет и 9 месяцев. 
 >На данный момент работаю по ГПХ удаленно 
 
- [Это ссылка на мое резюме] (https://hh.ru/applicant/resumes/view?resume=cf44ec66ff02cddc510039ed1f69477244706c)  
+ [Это ссылка на мое резюме] (https://hh.ru/applicant/resumes/view?resume=cf44ec66ff02cddc510039ed1f69477244706c)
+
+https://ingvarrRus.github.io/rsschool-cv/cv
+https://ingvarrRus.github.io/rsschool-cv/  
