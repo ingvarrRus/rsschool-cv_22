@@ -34,8 +34,9 @@
 
 .profile-name {
    position: absolute;
-   right: 20%;
-   top: 35%;
+   right: 10px;
+   top: 10px;
+   color: black;
 }
 
 .profile-name h2 {
@@ -61,4 +62,13 @@
 .info-item_right {
    width: 35%;
    margin-bottom: 30px;
+}
+
+.profile-bg {
+   background: url("background.jpg") no-repeat center;
+   position: relative;
+   background-size: cover;
+   display: flex;
+   border-radius: 2px;
+   height: 45vh;
 }
