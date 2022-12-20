@@ -1,0 +1,64 @@
+.profile-img {
+   
+   position: absolute;
+   left: 200px;
+   top: 10px;
+   border-radius: 5px;
+   overflow: hidden;
+   box-shadow: 0 1rem 3rem rgb(0 0 0 / 10%);
+   transition: all 0.2s ease-in-out;
+}
+
+.header {
+   margin-top: 60px;
+}
+
+.container {
+   width: 10%;
+   margin: absolute;
+}
+
+.header_top {
+   font-size: 32px;
+}
+
+.p {
+   margin-bottom: 16px;
+}
+
+.title {
+   margin-bottom: 36px;
+   font-size: 28px;
+   font-family: "Robolo",sans-relif;
+}
+
+.profile-name {
+   position: absolute;
+   right: 20%;
+   top: 35%;
+}
+
+.profile-name h2 {
+   font-size: 40px;
+   color: #fff;
+   letter-spacing: 4px;
+}
+
+.profile-name h3 {
+   font-size: 18px;
+   color: #fff;
+   letter-spacing: 4px;
+}
+
+.info-item {
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: space-between;
+   width: 80%;
+   margin-top: 20px;
+}
+
+.info-item_right {
+   width: 35%;
+   margin-bottom: 30px;
+}
